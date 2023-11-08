@@ -1,3 +1,8 @@
 body {
-    background: red;
-  }
+  background-color: white;
+}
+
+.my-class {
+  color: blue;
+  font-size: 20px;
+}
